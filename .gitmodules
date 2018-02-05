@@ -1,0 +1,3 @@
+[submodule "Installer.Headless"]
+	path = Installer.Headless
+	url = https://github.com/modthegungeon/Installer.Headless
